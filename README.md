@@ -1,1 +1,1 @@
-# I'm trying to create a function to generate automaticly a table from mySQL with Php
+# I'm trying to create a function to generate automaticly tables from mySQL with Php
